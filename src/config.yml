@@ -1,0 +1,7 @@
+
+#Format: ID;Material;Name;Lore1:Lore2:Lore3;up/downRadius;left/rightRadius;depthRadius
+#Example: TestTool;DIAMOND_PICKAXE;§c§lShockwave Pickaxe;§cThis pickaxe is dank:§cas hell honestly;3;2;3
+tools:
+  - 'TestTool;DIAMOND_PICKAXE;§c§lShockwave Pickaxe;§cThis pickaxe is dank:§cas hell honestly;2;2;2'
+
+
